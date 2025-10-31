@@ -7,3 +7,4 @@ build/
 *.spec
 config.ini
 icon.png
+upx.exe
